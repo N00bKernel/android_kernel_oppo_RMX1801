@@ -1,0 +1,6 @@
+[submodule "drivers/staging/qcacld-3.0"]
+	path = drivers/staging/qcacld-3.0
+	url = https://github.com/EssentialOpenSource/qcacld-3.0
+[submodule "drivers/staging/qca-wifi-host-cmn"]
+	path = drivers/staging/qca-wifi-host-cmn
+	url = https://github.com/EssentialOpenSource/qca-wifi-host-cmn
